@@ -1,0 +1,8 @@
+.container .btn1 {
+    bottom: 35%;
+}
+
+.container .login .showpass,
+.container .login span {
+    top: 100px;
+}
